@@ -99,9 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MySQL](https://www.mysql.com/)
 - [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 ```
-
-### Customization Notes
-- Make sure to replace `your_secret_key` in the `.env` section with an actual secret key you plan to use for JWT.
-- You can modify or expand sections based on your project’s actual features or requirements.
-
-Let me know if you need any further modifications or additional information!
